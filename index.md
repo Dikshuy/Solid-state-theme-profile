@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: THIS IS SOLID STATE
-description:  Another free + fully responsive site template by <a href="http://html5up.net">HTML5 UP</a>
+landing-title: Greetings to everyone
+description: homepage
 image: null
 author: null
 ---

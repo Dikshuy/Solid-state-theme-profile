@@ -4,7 +4,7 @@ subtitle: Homepage
 email: dikshant1212hsr@gmail.com
 description : If you wanna have some, then come and get some
 baseurl: "/solid-state-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://Dikshant.github.io" # the base hostname & protocol for your site
+url: "https://Dikshant.github.io/" # the base hostname & protocol for your site
 author:
 street_address: Room No. 160, Hostel 3, IIT Bombay
 city: Mumbai
